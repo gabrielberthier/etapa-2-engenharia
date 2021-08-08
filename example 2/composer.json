@@ -1,0 +1,15 @@
+{
+    "name": "gabriel-berthier/atividade-1",
+    "autoload": {
+        "psr-4": {
+            "GabsProjects\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Berthier",
+            "email": "gnberthier@gmail.com"
+        }
+    ],
+    "require": {}
+}
